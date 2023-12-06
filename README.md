@@ -1,5 +1,6 @@
 # IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization
 
+We will be using a dataset and a scenario where we will use descriptive statistics and hypothesis testing to give some insights about the data provided.
 ## Boston Data Housing
 - Data Science Analysis on Python using numpy, pandas & seaborn
 
